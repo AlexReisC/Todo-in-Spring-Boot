@@ -144,3 +144,6 @@ This project is a todo list REST API made with Spring Boot.
 - Spring Data JPA
 - Spring Boot Validation
 - PostgreSQL Driver
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
